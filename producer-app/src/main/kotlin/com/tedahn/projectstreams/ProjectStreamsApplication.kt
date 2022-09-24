@@ -4,8 +4,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class ProjectstreamsApplication
+class ProjectStreamsApplication
 
 fun main(args: Array<String>) {
-	runApplication<ProjectstreamsApplication>(*args)
+	runApplication<ProjectStreamsApplication>(*args)
 }
