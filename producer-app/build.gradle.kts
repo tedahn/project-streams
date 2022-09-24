@@ -21,6 +21,7 @@ dependencies {
 	implementation("org.jetbrains.kotlin:kotlin-reflect")
 	implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
 	implementation("org.springframework.kafka:spring-kafka")
+	implementation("io.projectreactor.kafka:reactor-kafka:1.3.12")
 	implementation(project(":streams-common-lib"))
 }
 
