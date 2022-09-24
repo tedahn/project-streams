@@ -1,8 +1,7 @@
-package com.tedahn.projectstreams.service
+package com.tedahn.projectstreams.common
 
 import org.springframework.stereotype.Service
 
-@Service
 interface DigitalCustomer {
     fun buy()
 }
